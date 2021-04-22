@@ -11,7 +11,7 @@
     "jquery-deferred": "^0.3.0",
     "mysql": "^2.3.2",
     "request": "^2.39.0",
-    "socket.io": "*",
+    "socket.io": "3.1.2",
     "underscore": "^1.6.0"
   },
   "license": "GPL-3.0"
